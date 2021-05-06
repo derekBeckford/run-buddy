@@ -196,6 +196,10 @@ section{
 
 //*trainers*//
 
+#your.trainers {
+    text-align: center;
+}
+
 .trainers {
     text-align: center;
 }
@@ -218,7 +222,6 @@ section{
     float: left;
     width: 65%;
 }
-
 
 .text-left {
     text-align: left;
