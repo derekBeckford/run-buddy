@@ -12,3 +12,5 @@ https://derekbeckford.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Derek Beckford 
+
+### ©️2019 Run Buddy, Inc 
